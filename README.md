@@ -1,6 +1,10 @@
 # New York Taxi Fare Prediction
 New York City Taxi Fare Prediction Can you predict a rider's taxi fare?
 
+![Image](./images.jpeg)
+![Image](./image2.jpeg)
+
+
 ## Project Overview
 
 - The New York Taxi Fare Prediction project aims to predict taxi fares using historical taxi trip data. This project demonstrates data preprocessing, feature engineering, and model building to predict taxi fares from various features such as pickup and dropoff locations, date, and time. The project utilizes machine learning techniques, including regression and deep learning, to achieve accurate predictions.
